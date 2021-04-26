@@ -2,14 +2,21 @@
 
 approvers:
   - durandom
-  - cfchase
   - oindrillac
   - tumido
-  - martinpovolny
   - HumairAK
+
 reviewers:
   - hemajv
   - durandom
   - oindrillac
   - tumido
-  - martinpovolny
+  - HumairAK
+  - 4n4nd
+  - harshad16
+  - hemajv
+  - goern
+  - HumairAK
+  - tumido
+  - larsks
+  - ipolonsk
