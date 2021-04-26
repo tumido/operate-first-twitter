@@ -1,0 +1,15 @@
+# See the OWNERS docs at https://go.k8s.io/owners
+
+approvers:
+  - durandom
+  - cfchase
+  - oindrillac
+  - tumido
+  - martinpovolny
+  - HumairAK
+reviewers:
+  - hemajv
+  - durandom
+  - oindrillac
+  - tumido
+  - martinpovolny
